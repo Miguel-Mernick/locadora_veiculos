@@ -86,6 +86,6 @@ Utiliza o **Bootstrap 5.3.3** para uma interface responsiva e moderna, com ícon
 | Carro        | Golf GTI         | FGS1D35   | Alugado    |
 | Moto         | Tracer 900       | OSD5913   | Disponível |
 | Helicóptero  | Ka-52 Alligator  | 123654    | Disponível |
-| Caminhão     | KBP PANTSIR-S1   | DDWD346E  | Afundado   |
+| Caminhão     | KBP PANTSIR-S1   | DDWD346E  | Alugado    |
 
 ---
