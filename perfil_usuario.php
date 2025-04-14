@@ -49,9 +49,7 @@
                                     <option value="carro">Carro</option>
                                     <option value="moto">Moto</option>
                                     <option value="carro">Helicoptero</option>
-                                    <option value="moto">Avião</option>
-                                    <option value="carro">Barco</option>
-                                    <option value="moto">Submarino</option>
+                                    <option value="moto">Caminhão</option>
                                 </select>
                             </div>
                             <div class="mb-3">
