@@ -201,7 +201,7 @@
                                         <td>KBP PANTSIR-S1</td>
                                         <td>dycg346d</td>
                                         <td>
-                                            <span class="badge bg-danger">Afundado</span>
+                                            <span class="badge bg-danger">Alugado</span>
                                         </td>
                                         <td>
                                             <div class="action-wrapper">
